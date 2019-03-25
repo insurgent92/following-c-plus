@@ -10,7 +10,7 @@ int main(void)
 
 	int sight = 10;
 
-	// ,,,
+	// ...
 
 	sight = 0;
 
