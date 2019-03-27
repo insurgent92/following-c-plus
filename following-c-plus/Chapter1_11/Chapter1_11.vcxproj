@@ -146,6 +146,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="main_chapter1_11.cpp" />
+    <ClCompile Include="MyFunctions\add.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyHeaders\add.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
