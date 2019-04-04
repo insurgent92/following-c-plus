@@ -14,7 +14,5 @@ int main()
 		cout << b3 << endl;
 		cout << b1 << endl;
 	}
-	cout << b3 << endl;
-	cout << b1 << endl;
 	return 0;
 }
