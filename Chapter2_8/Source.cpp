@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 
 int main()
 {
@@ -13,6 +13,11 @@ int main()
 	cout << pi << endl;
 	cout << i << endl;
 	cout << (int)_uc << endl;
+	int x = 012;
+	01234; // 8진수
+	0x1324; // 16진수 
+	0b1111'1111;
+
 
 	return 0;
 
